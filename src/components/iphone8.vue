@@ -4,14 +4,6 @@
     <div class="iphone6-evalute clear">
       <div class="ip6R">
         <img src="https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone8/title.jpeg" alt="iPhone 6s Display Assembly Replacement">
-        <P>
-          <i class="svg-icon" style="display: inline-block; width: 24px; height: 24px;">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <circle cx="12" cy="8" r="7"></circle>
-              <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"></polyline>
-            </svg>
-          </i> Featured Guide
-        </P>  
       </div>
       <div class="ip6L">
           <div class="iphone6-introduce">
@@ -26,100 +18,6 @@
     
     <br>
     <br>
-    <!-- <div>
-      <div class="iphone6-tools">
-        <div class="iphone6-tools-heade">
-          <h5>Tools</h5>
-          <div class="buy">
-            <a href="javascript:void(0)">Buy these tools</a>
-          </div>
-        </div>
-        <div class="iphone6-tools-content">
-          <ul>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">Phillips #000 Screwdriver</a>
-            </li>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">Suction Handle</a>
-            </li>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">Tri-point Y000 Screwdriver Bit</a>
-            </li>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">iFixit Opening Picks set of 6</a>
-            </li>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">Standoff Screwdriver for iPhones</a>
-            </li>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">iOpener</a>
-            </li>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">P2 Pentalobe Screwdriver iPhone</a>
-            </li>
-            <li>
-                <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">Spudger</a>
-            </li>
-            <li>
-            </li>
-            <li>
-                <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">Tweezers</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="iphone6-parts">
-        <div class="iphone6-parts-heade">
-          <h5>Parts</h5>
-          <div class="buy">
-            <a href="javascript:void(0)">Buy these Parts</a>
-          </div>
-        </div>
-        <div class="iphone6-parts-buy">
-          <a href="javascript:void(0)">
-            <img src="../../public/img/iphone8/small.jpeg" alt="">
-          </a>
-          <a href="javascript:void(0)">
-            <p>iPhone 8 Replacement Battery </p>
-            <p>$44.99</p>
-          </a>
-          <a href="javascript:void(0)">
-            Buy
-          </a>
-        </div>
-        <div class="iphone6-parts-content">
-          <ul>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">iPhone 8 Battery Adhesive Strips</a>
-            </li>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">iPhone 8/8 Plus Bottom Screws
-              </a>
-            </li>
-            <li>
-              <i class="el-icon-star-on  icon"></i>
-              <a href="javascript:void(0)">iPhone 8 Display Assembly Adhesive
-              </a>
-            </li>
-            <li>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div style="clear:both"></div>
-    </div> -->
-    
     <div class="iphone6-introduction">
       <div class="intp-step11">
         <h2>
@@ -844,79 +742,6 @@
       <hr>
       <br>
     </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <div class="iphone6-conclusion">
-      <div class="header">
-        <h3>CONCLUSION</h3>
-      </div>
-      <div class="content">
-        <p>To reassemble your device, follow these instructions in reverse order.</p>
-        <a href="javascript:void(0)">
-          Give the author +30 points!
-        </a>
-      </div>
-      <div class="foot">
-        <a href="javascript:void(0)">
-          565 other people completed this guide.
-        </a>
-      </div>
-    </div>
-
-     <!-- <div class="iphone6-auto">
-      <div class="iphone6-auto-left">
-        <div class="left">
-          <h3>Author</h3>
-          <div>
-            <img src="../../public/img/common/1.jpeg" alt="">
-            <div>
-              <p>Jeff Suovanen</p>
-              <p>Member since: 08/06/2013</p>
-              <p>178,602 Reputation</p>
-              <p>144 Guides authored</p>
-            </div>
-          </div>
-        </div>
-        <div class="right">
-          <div>
-            <p>with 4 other contributors</p>
-          </div>
-          <div>
-            <p>Badges:
-              <span style="color:#555">46</span>
-            </p>
-          </div>
-          <div>
-            <img src="../../public/img/common/2.svg" alt="">
-            <img src="../../public/img/common/3.svg" alt="">
-            <img src="../../public/img/common/4.svg" alt="">
-          </div>
-          <div>
-            <p>+43 more badges</p>
-          </div>
-        </div>
-      </div>
-      <div class="iphone6-auto-right">
-        <h3>Team</h3>
-        <div>
-          <img src="../../public/img/common/5.jpeg" alt="">
-          <div>
-            <p>iFixit</p>
-            <p>Community</p>
-            <p>106 Members</p>
-            <p>6,451 Guides authored</p>
-          </div>
-        </div>
-      </div>
-    </div> -->
-
-    <br>
-    <br>
-    <hr>
-    <br>
-    <br>
   </div>
 </template>
 <script>

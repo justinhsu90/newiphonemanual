@@ -4,14 +4,6 @@
     <div class="iphone6-evalute clear">
       <div class="ip6R">
         <img src="https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone8p/title.jpeg" alt="iPhone 6s Display Assembly Replacement">
-        <P>
-          <i class="svg-icon" style="display: inline-block; width: 24px; height: 24px;">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-              <circle cx="12" cy="8" r="7"></circle>
-              <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"></polyline>
-            </svg>
-          </i> Featured Guide
-        </P>
       </div>
       <div class="ip6L">
           <div class="iphone6-introduce">
@@ -421,7 +413,7 @@
                With the logic board out, we can remove some of the peripheral components. We go into sensory overload as we pop out a speaker, tap our Taptic Engine, and blow through the barometric vent.</li>
               <li>
                 <i>●</i>
-               Do you remember when you could swap your speaker without first removing the logic board? iFixit remembers.</li>
+               Do you remember when you could swap your speaker without first removing the logic board? DalTech remembers.</li>
               <li>
                 <i>●</i>
               How about when you could remove the Taptic Engine without first removing the speaker? Yeah, we remember that too.</li>
@@ -526,78 +518,6 @@
         </div>
       </div>
     </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <div class="iphone6-conclusion">
-      <div class="header">
-        <h3>CONCLUSION</h3>
-      </div>
-      <div class="content">
-        <p>To reassemble your device, follow these instructions in reverse order.</p>
-        <a href="javascript:void(0)">
-          Give the author +30 points!
-        </a>
-      </div>
-      <div class="foot">
-        <a href="javascript:void(0)">
-          565 other people completed this guide.
-        </a>
-      </div>
-    </div>
-
-    <!-- <div class="iphone6-auto">
-      <div class="iphone6-auto-left">
-        <div class="left">
-          <h3>Author</h3>
-          <div>
-            <img src="../../public/img/common/1.jpeg" alt="">
-            <div>
-              <p>Jeff Suovanen</p>
-              <p>Member since: 08/06/2013</p>
-              <p>178,602 Reputation</p>
-              <p>144 Guides authored</p>
-            </div>
-          </div>
-        </div>
-        <div class="right">
-          <div>
-            <p>with 4 other contributors</p>
-          </div>
-          <div>
-            <p>Badges:
-              <span style="color:#555">46</span>
-            </p>
-          </div>
-          <div>
-            <img src="../../public/img/common/2.svg" alt="">
-            <img src="../../public/img/common/3.svg" alt="">
-            <img src="../../public/img/common/4.svg" alt="">
-          </div>
-          <div>
-            <p>+43 more badges</p>
-          </div>
-        </div>
-      </div>
-      <div class="iphone6-auto-right">
-        <h3>Team</h3>
-        <div>
-          <img src="../../public/img/common/5.jpeg" alt="">
-          <div>
-            <p>iFixit</p>
-            <p>Community</p>
-            <p>106 Members</p>
-            <p>6,451 Guides authored</p>
-          </div>
-        </div>
-      </div>
-    </div> -->
-    <br>
-    <br>
-    <hr>
-    <br>
-    <br>
   </div>
 </template>
 <script>

@@ -16,6 +16,9 @@ _.each(entry, (v) => {
 
 module.exports = {
   // baseUrl  type:{string} default:'/'
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/setupguide/iphone/'
+    : '/',
   // 将部署应用程序的基本URL
   // 将部署应用程序的基本URL。
   // 默认情况下，Vue CLI假设您的应用程序将部署在域的根目录下。

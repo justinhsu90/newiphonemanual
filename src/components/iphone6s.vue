@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>iPhone 6s Display Assembly Replacement</h1>
+    <h1 style="font-style: oblique;">iPhone 6s Display Assembly Replacement</h1>
     <div class="iphone6-evalute clear">
       <div class="ip6R">
         <img src="https://jj0k0vdokyote8dbink.blob.core.windows.net/iphone6s/1.jpeg" alt="iPhone 6s Display Assembly Replacement">

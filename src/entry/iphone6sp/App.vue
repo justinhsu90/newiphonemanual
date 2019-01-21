@@ -91,7 +91,7 @@ export default {
       if (v == "/") {
         window.location.href = `/`;
       } else {
-        window.location.href = `${v}.html`;
+        window.location.href = `/setupguide/iphone/${v}.html`;
       }
     }
   }
